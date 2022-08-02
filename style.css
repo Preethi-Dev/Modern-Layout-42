@@ -18,13 +18,8 @@ a {
 }
 
 @font-face {
-  font-family: "Lexend Mega Bold";
-  src: url(./assets/fonts/texgyreadventor-bold.otf);
-}
-
-@font-face {
   font-family: "Lexend Mega";
-  src: url(./assets/fonts/texgyreadventor-regular.otf);
+  src: url(./assets/fonts/LexendMega-Regular.woff);
 }
 
 /* Variables */
